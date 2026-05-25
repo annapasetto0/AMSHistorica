@@ -28,8 +28,8 @@
   dcterms:contributor "Laurent Fintoni, Francesca Tomasi" ;
   dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
   dct:language "English"@en, "Italian"@en, "Italiano"@it, "Inglese"@it ;
-  dct:issued "2026-05-20"^^xsd:date ;
-  dct:modified "2026-05-20"^^xsd:date ;
+  dct:issued "2026-05-25"^^xsd:date ;
+  dct:modified "2026-05-25"^^xsd:date ;
   foaf:homepage <https://github.com/annapasetto0/AMSHistorica> ;
 
 
