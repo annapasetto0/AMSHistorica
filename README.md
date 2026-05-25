@@ -1,2 +1,2 @@
-# AMS-Historica-Thesaurus-
+# AMS Historica Thesaurus
 SKOS Thesaurus for AMS Historica 
