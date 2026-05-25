@@ -30,7 +30,7 @@
   dct:language "English"@en, "Italian"@en, "Italiano"@it, "Inglese"@it ;
   dct:issued "2026-05-20"^^xsd:date ;
   dct:modified "2026-05-20"^^xsd:date ;
-  foaf:homepage <---> ;
+  foaf:homepage <https://github.com/annapasetto0/AMSHistorica> ;
 
 
   skos:hasTopConcept ams:frutta, ams:dicotiledoni, ams:monocotiledoni, ams:epitaph,
